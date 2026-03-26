@@ -1,0 +1,4 @@
+module "Expecta+Snapshots" {
+  header "Expecta+Snapshots.h"
+  export *
+}

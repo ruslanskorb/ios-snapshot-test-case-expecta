@@ -1,0 +1,1 @@
+../../ExpectaObject+FBSnapshotTest.h

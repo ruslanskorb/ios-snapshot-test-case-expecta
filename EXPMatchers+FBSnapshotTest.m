@@ -1,6 +1,10 @@
 #import "EXPMatchers+FBSnapshotTest.h"
 #import <Expecta/EXPMatcherHelpers.h>
+#if SWIFT_PACKAGE
+#import "FBSnapshotTestController.h"
+#else
 #import <FBSnapshotTestCase/FBSnapshotTestController.h>
+#endif
 
 @interface EXPExpectFBSnapshotTest()
 @property (nonatomic, strong) NSString *referenceImagesDirectory;

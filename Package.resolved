@@ -1,0 +1,30 @@
+{
+  "originHash" : "631d3fdeaa8d03664da46468fd4171b6d2c875ab998b33adae8f2bc4c21bc514",
+  "pins" : [
+    {
+      "identity" : "expecta",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ruslanskorb/expecta.git",
+      "state" : {
+        "revision" : "632427da398110f281577fd89dafc9dd06dc5f71"
+      }
+    },
+    {
+      "identity" : "ios-snapshot-test-case",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/revolut-mobile/ios-snapshot-test-case.git",
+      "state" : {
+        "revision" : "d4f03bd80e715b108409d2c215b53e0a8b92d5cc"
+      }
+    },
+    {
+      "identity" : "specta",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ruslanskorb/specta.git",
+      "state" : {
+        "revision" : "b71ea8df50d5557cebdd3e5a4b334b1564c34c0d"
+      }
+    }
+  ],
+  "version" : 3
+}
